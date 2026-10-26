@@ -3,7 +3,7 @@
 # ✨ AURA AI
 ### *Your Intelligent Personal Assistant, Powered by Google Gemini*
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-AURA_AI-8B5CF6?style=for-the-badge&logo=vercel)](https://lnkd.in/d4NAgxif)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-AURA_AI-8B5CF6?style=for-the-badge&logo=vercel)]([https://lnkd.in/d4NAgxif](https://aura-ai-ngfp.onrender.com/))
 [![AI Engine](https://img.shields.io/badge/Gemini_2.5-Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![Status](https://img.shields.io/badge/System-Online_%26_Operational-10B981?style=for-the-badge)]()
 [![Contact](https://img.shields.io/badge/Email-dhurvedang4104%40gmail.com-EF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhurvedang4104@gmail.com)
